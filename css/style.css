@@ -1,0 +1,9 @@
+.container {
+  max-width: 960px;
+}
+
+
+
+.invalid{
+  color:rgba(244, 66, 217, 0.968);
+}
